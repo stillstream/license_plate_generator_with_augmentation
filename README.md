@@ -1,0 +1,2 @@
+# license_plate_generator_with_augmentation
+支持绝大部分虚拟机动车牌自动生成及多种数据增强方法
